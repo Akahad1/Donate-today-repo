@@ -84,8 +84,8 @@ body{
     margin-top: 50px;
 }
 .plan{
-    background-image: url(food.PNG);
-    background-repeat: no-repeat;
+    background-image: url(food.png);
+    background-repeat:no-repeat;
     margin-left: 210px;
     background-color: aquamarine;
     padding: 50px;
